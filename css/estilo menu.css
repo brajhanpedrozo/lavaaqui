@@ -1,0 +1,29 @@
+.body{
+	 text-align:center;
+	 font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+	}
+	
+.titulo{
+	
+	font-size:36px;
+	
+	}
+	
+	
+.s1{
+	font-size:18px;
+	
+	}
+	
+	 
+table{  border-collapse:collapse;
+	    border:1px solid #000;
+	   background:#63F;
+	margin-left:400px;
+	}
+	
+table td{ border:1px solid #000;
+	
+	}
+	

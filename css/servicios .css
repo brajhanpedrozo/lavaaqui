@@ -1,0 +1,48 @@
+
+
+body{
+	text-align:center;
+	background:url(../img/img2.jpg);
+	background-attachment:fixed;
+	;
+	
+	}
+	
+.titulo{
+	    font-size:50px;
+		color:#00F;
+		
+	
+	
+	}
+
+.t{
+	font-size:30px;}
+	
+	
+.lista{
+	   font-size:25px;
+	   text-align:left;
+	   margin-left:80px;
+	
+	
+	}
+	
+	#container {
+		
+		width:900px;
+		height:800px;
+		border-radius:6px;
+		box-shadow:0 10px 30px #000000;
+		margin:200px auto;
+		border: 1px #FFFFFF40;
+		
+		
+		
+		}
+		
+	.filter{
+		-webkit-backdrop-filter:blur(15px);
+		backdrop-filter:blur(15px);
+		background-color: rgba(243,243,243,0.2);
+		}

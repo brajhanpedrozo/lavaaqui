@@ -1,0 +1,33 @@
+
+
+
+body{
+	 text-align:center;
+	 font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	background-image:url(../img/img1.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	
+	
+	}
+	
+.titulo{
+	font-size:50px;
+	color:#00F;
+	}
+.s{ 
+    font-size:30px;
+	color:#36F;
+	
+	
+	}
+	
+	
+.p{
+	color:#999;
+	background:#6FF;
+	font-size:25px;
+	
+	
+	}
